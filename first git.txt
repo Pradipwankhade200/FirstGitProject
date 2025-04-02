@@ -3,6 +3,6 @@
      
               String name = "Pradip Wankhade";
         
-         System.out.println ( " my name is " + " " + name ; 
+         System.out.println ( " my name is pradip wankhade ";
 
 } 
