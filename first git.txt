@@ -1,0 +1,8 @@
+   
+  public static void main ( String [] args  {
+     
+              String name = "Pradip Wankhade";
+        
+         System.out.println ( " my name is " + " " + name ; 
+
+} 
